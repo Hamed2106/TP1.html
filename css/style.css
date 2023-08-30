@@ -1,0 +1,109 @@
+
+header{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 20px;
+   border: solid;
+}
+.long{
+    width: auto;
+    margin-left: 60px;
+    
+}
+nav ul {
+   list-style-type: none;
+}
+
+
+nav ul li {
+   display: inline;
+   margin-left: 10px;
+}
+
+
+nav ul li a {
+   text-decoration: none;
+}
+.img{
+   align-items: center;
+    margin-left: 80px;
+    border: solid;
+    
+
+    
+   
+
+}
+
+.gra{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  border: solid;
+  ;
+}
+
+.wrapper{
+   text-align: center;
+   margin: 0 20px;
+   margin-top: 50px;
+
+}
+
+.graph{
+   text-align: center;
+   margin: auto;
+   margin-top: 50px;
+   border: solid;
+}
+.dim{
+  filter: brightness(0.3);
+}
+
+footer{
+    border: solid;
+      background-color: blueviolet;
+}
+
+.social{
+      
+   display: flex;
+  justify-content: center;
+  margin: 0 15px;
+  border: solid;
+  }
+
+a{
+   text-align: center;
+   margin: 0 50px;
+   
+ }
+
+ ul{
+   list-style-type: none;
+   margin: top 30px
+}
+
+
+.premier, .deuxième, .troisième{
+         column-count: 3;
+         
+         
+}
+
+.agence{
+ text-align: center;
+}
+
+   
+
+
+
+
+ 
+ 
+ 
+
+
+
